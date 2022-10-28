@@ -1,1 +1,1 @@
-![](https://github.com/VegetableKitten/VegetableKitten/blob/master/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/VegetableKitten/VegetableKitten/main/assets/github-contribution-grid-snake.svg)              
